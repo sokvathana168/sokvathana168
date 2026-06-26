@@ -4,8 +4,8 @@
 <h3>About me:</h3>
 
 - 🌱 I'm currently learning CCNA and Linux.
-- How to find me <a hrf="mailto:sokvatana880@gmail.com">**sokvatana880@gmail.com**</a>
-- My telegram <a hrf="https://t.me/sun_jae12">**https://t.me/sun_jae12**</a> 
+- How to find me <a href="mailto:sokvatana880@gmail.com">**sokvatana880@gmail.com**</a>
+- My telegram <a href="https://t.me/sun_jae12">**https://t.me/sun_jae12**</a> 
 - I'm basic programmer
 
 <h3>Tools and language:</h3>
