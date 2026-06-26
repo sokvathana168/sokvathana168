@@ -4,7 +4,7 @@
 <h3>About me:</h3>
 
 - 🌱 I'm currently learning CCNA and Linux.
-- How to find me <a hrf="mailto:sokvatana880@gmail.com">**sokvatana@gmail.com**</a>
+- How to find me <a hrf="mailto:sokvatana880@gmail.com">**sokvatana880@gmail.com**</a>
 -
 -
 
